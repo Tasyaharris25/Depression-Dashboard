@@ -94,7 +94,7 @@ Age Groups column was created to group the age data so that it will be easier to
    
    <img width="111" alt="image" src="https://github.com/user-attachments/assets/4b915d3d-4f9e-493c-b3c4-fc58fa52cb5a" />
 
-   From this graph, it shows that there are male respondents with depression compared to female. 
+   From this graph, it shows that there are more male respondents with depression compared to female. 
 
 
 9.  Slicers
