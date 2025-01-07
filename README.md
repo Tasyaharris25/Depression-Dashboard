@@ -10,7 +10,7 @@ The primary objectives of this analysis are:
 
 1. To identify the percentage of respondents experiencing depression.
 
-2. To examine correlations between depression and key contributing factors, including financial stress, work pressure, and work hours.
+2. To examine correlations between depression and key contributing factors, including financial stress, academic pressure, and work hours.
 
 3. To assess sleep patterns and their impact on mental health.
 
