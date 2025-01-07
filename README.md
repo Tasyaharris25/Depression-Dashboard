@@ -42,7 +42,7 @@ DAX formula to calculate percentage of respondents who have suidical thoughts:
 
 <img width="566" alt="image" src="https://github.com/user-attachments/assets/c0aa27e8-c689-43a4-918e-e32b6c95f6d0" />
 
-The result shows 63% of the respondents have thought about suicide, this percentage is more that depression respondents. This indicate that there are some respondents who did not have depressio but have suicidal thought. 
+The result shows 63% of the respondents have thought about suicide, this percentage is more that depression respondents. This indicate that there are some respondents who did not have depression but have suicidal thought. 
 
 3. Financial Stress and Academic Pressure
 
